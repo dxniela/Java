@@ -5,8 +5,8 @@ public class Entrada {
 
     // Constructor
     public Entrada (String Nombre, Double Precio) {
-        nombre = Nombre;
-        precio = Precio;
+        this.nombre = Nombre;
+        this.precio = Precio;
     }
 
     // Métodos
