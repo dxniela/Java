@@ -9,7 +9,7 @@ public class Main {
         String medicamento = entrada.nextLine();
 
         System.out.print("Ingrese la cantidad: ");
-        int cantidad = entrada.nextInt();
+        var cantidad = entrada.nextInt();
 
         System.out.print("Ingrese el precio unitario: ");
         double precioUnitario = entrada.nextDouble();
